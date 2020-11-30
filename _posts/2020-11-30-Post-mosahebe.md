@@ -13,6 +13,6 @@ title: مدیریت زمان و درس خواندن
 **نتیجه کلی: مهمترین عوامل موفقیت داشتن **برنامه دقیق** هم کوتاه مدت هم بلند مدت. تمرین **مستمر** و **پیوسته** و داشتن **پشتکار زیاد
 و داشتن **روحیه بالا و قوی** است
 
-![harekat dar masire movafaghiat]("/assets/images/mo2.jpg")harekat dar masire movafaghiat
+![harekat dar masire movafaghiat]("/assets/images/mo2.jpg")
 ---
 
