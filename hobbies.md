@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [swimming](https://www.swimming.com/)
+* [hiking](https://www.mountaintrek.com/)
 
 
