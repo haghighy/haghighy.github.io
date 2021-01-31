@@ -34,7 +34,12 @@ gallery:
   - url: /assets/images/g11.jpg
     image_path: /assets/images/g11.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"    
+    title: "Image 1 title caption"  
+  - url: /assets/images/labexam.jpg
+    image_path: /assets/images/labexam.jpg
+    alt: "placeholder image 11"
+    title: "Image 11 title caption"
+    
 ---
 
 {% include gallery caption="These are the things that I love:) " %}
